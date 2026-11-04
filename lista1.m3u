@@ -208,6 +208,10 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/topgear.png", BBC Top Gear Italy
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tinyurl.com/xN1ckuzTopGear
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/53-italia53.png", Italia 53
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://liveac115b.b-cdn.net/canale3.smil/chunklist_b1100000.m3u8
@@ -250,14 +254,6 @@ https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/266-radiozeta.png", Radio Zeta
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/402-acisporttvhd.png", ACI Sport TV HD
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/403-bbctopgear.png", BBC Top Gear Italy
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tinyurl.com/xN1ckuzTopGear
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/408-radiocarinatv.png", Radio Carina TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
