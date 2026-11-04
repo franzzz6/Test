@@ -64,6 +64,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/20.png", 20Mediaset HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/la7.png", LA7 HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
@@ -103,10 +107,6 @@ https://live2.telesveva.com/hls/svevahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png", Tele Dehon
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png", 20Mediaset HD
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/22-irishd.png", Iris HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
