@@ -216,6 +216,10 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/401-euronewsit.png", Euronews IT
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/61-il61.png", il61
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5a1178b42cc03.streamlock.net/travel/travel/chunklist_w2126077193.m3u8
@@ -277,10 +281,6 @@ https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visu
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr9-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/257-gamberorosso.png", Gambero Rosso
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://smplu.link/xN1ckuz-GamberoRosso.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/258-radiofreccia.png", RadioFreccia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
@@ -297,10 +297,6 @@ https://stream.rdstv.radio/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/401-euronewsit.png", Euronews IT
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/402-acisporttvhd.png", ACI Sport TV HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
@@ -308,10 +304,6 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_outp
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/403-bbctopgear.png", BBC Top Gear Italy
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tinyurl.com/xN1ckuzTopGear
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/404-hellskitchen.png", Hell's Kitchen Italy
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png", Sportitalia Solocalcio HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -337,7 +329,9 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/404-hellskitchen.png", Hell's Kitchen Italy
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 
 
