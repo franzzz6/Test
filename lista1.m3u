@@ -28,7 +28,7 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/406-raiplaysport1.png", RaiSport 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/rsport.png", RaiSport 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
 
