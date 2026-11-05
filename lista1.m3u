@@ -295,10 +295,13 @@ https://5a1178b42cc03.streamlock.net/travel/travel/chunklist_w2126077193.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master-3500.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/33-foodnetworkhd.png", Food Network HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/food.png", Food Network HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/aa.png", Alto Adige TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 
 
 
