@@ -292,3 +292,6 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/friuli.png", TeleVenezia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://57068da1deb21.streamlock.net/livetv/livetv/playlist.m3u8
