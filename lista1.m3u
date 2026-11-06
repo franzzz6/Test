@@ -104,34 +104,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/telenorba.png", Telenorba
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/norbatv.png", Radionorba TV HD
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/13-tgnorba24.png", TG Norba 24
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/14-antennasud.png", Antenna Sud
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png", Telerama
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/18-telesveva.png", Telesveva
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live2.telesveva.com/hls/svevahd.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png", Tele Dehon
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/26-cielohd.png", Cielo HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
@@ -304,6 +276,21 @@ http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/telenorba.png", Telenorba
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/norbatv.png", Radionorba TV HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/13-tgnorba24.png", TG Norba 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png", Telerama
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/VnCcH73.png", Bloomberg
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
