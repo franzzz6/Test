@@ -148,15 +148,15 @@ https://streamcdnr9-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png", Sky TG24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png" group-title = "Notiziari", Sky TG24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/51-tgcom24hd.png", TGCOM 24 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/51-tgcom24hd.png" group-title = "Notiziari", TGCOM 24 HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/euronews.png", Euronews IT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/euronews.png" group-title = "Notiziari", Euronews IT
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
 
@@ -292,6 +292,11 @@ https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/VnCcH73.png", Bloomberg
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VnCcH73.png" group-title = "Notiziari", Bloomberg
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/24ore.png" group-title = "Notiziari", Il sole 24 Ore
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg14891-amg14891c8-amgplt0395.playout.now3.amagi.tv/playlist.m3u8
+
