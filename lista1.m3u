@@ -217,9 +217,6 @@ https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/tgnorba24.png" group-title = "Regionali", TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png" group-title = "Regionali", Telerama
-https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/VnCcH73.png" group-title = "Notiziari", Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
