@@ -186,8 +186,11 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/404-hellskitchen.png" group-title = "Discovery" , Hell's Kitchen Italy
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/53-italia53.png" group-title = "Regionali" , Italia 53
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/italia53.png" group-title = "Regionali" , Italia 53
 https://liveac115b.b-cdn.net/canale3.smil/chunklist_b1100000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/franzzz6/Test/refs/heads/main/loghi/telechiara.png" group-title = "Regionali" , TeleChiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/63-cs24.png" group-title = "Regionali", Canale 63
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master-3500.m3u8
